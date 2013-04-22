@@ -1,6 +1,6 @@
 /*
   Filename   : Template.cc
-  Author     : Gary M. Zoppetti
+  Author     : Salvatore Fugarino
   Course     : CSCI 362-01
   Assignment : 
   Description: Generic structure of a C++ source file
